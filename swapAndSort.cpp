@@ -114,4 +114,3 @@ int main() {
     for(auto i : ans) cout << i << " ";
     cout << "\n";
     return 0;
-}
